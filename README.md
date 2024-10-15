@@ -18,8 +18,8 @@ The aim of this project is to create a good starting point for my future project
 ### 1. Clone the project
 1. Clone the repository into your system and install the dependencies.
 ```bash
-$ git clone https://github.com/Jeydin21/Nextjs-TailwindCSS-Template.git
-$ cd Nextjs-TailwindCSS-Template
+$ git clone https://github.com/Jeydin21/Next.js-TailwindCSS-Template.git
+$ cd Next.js-TailwindCSS-Template
 $ npm install # Or yarn install
 ```
 
@@ -31,4 +31,4 @@ $ npm run dev
 2. Open the preview [localhost:3000](http://localhost:3000) in your browser.
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/license/mit) - see the [License](https://github.com/Jeydin21/Nextjs-TailwindCSS-Template/blob/main/LICENSE) file for more details
+This project is licensed under the [MIT License](https://opensource.org/license/mit) - see the [License](https://github.com/Jeydin21/Next.js-TailwindCSS-Template/blob/main/LICENSE) file for more details
